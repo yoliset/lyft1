@@ -1,0 +1,18 @@
+body {
+    font-family: "Merriweather", serif;
+}
+.hero  h3{
+    font-size: 23px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.cajita{
+    background-color:rgba(169, 169, 169, 0.34);
+    padding: 20px;
+    border-top: 1px solid ;
+    
+}
+ul{
+    list-style: none;
+}
+

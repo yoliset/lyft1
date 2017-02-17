@@ -1,0 +1,35 @@
+
+body {
+    font-family: "Merriweather", serif;
+    background-image: url(../img/lyft.jpg);
+}
+
+/*------------------------------------- HERO  */
+h3{
+    color: white;
+    font-size: 54px;
+    position: relative;
+    top: 70px;
+    font-family: fantasy;
+}
+.caja{
+    text-align: center;
+}
+h5{
+    font-size: 40px
+}
+.caja button{
+    position: relative;
+    top: 550px;
+    color: white;
+    border-radius: 10px;
+    padding: 15px 36px;
+    text-align: center:
+    box-sizing: border-box;
+}
+.negro{
+    background-color: rgba(0, 0, 0, 0.3);
+}
+.rosa{
+    background-color:rgba(128, 27, 165, 0.63);
+}
